@@ -46,7 +46,7 @@ The model classifies sequences into **5 enzyme classes**:
 | **Example Sequences** | Load pre-loaded examples (CDK2, Caspase-3, GAPDH, PP2A) |
 
 ##  Technical Pipeline
-<img width="1536" height="1024" alt="ChatGPT Image Jun 9, 2026, 03_13_23 PM" src="https://github.com/user-attachments/assets/a71e426d-bb69-4226-8783-48e0a7015f22" />
+<img width="500" height="500" alt="ChatGPT Image Jun 9, 2026, 03_13_23 PM" src="https://github.com/user-attachments/assets/a71e426d-bb69-4226-8783-48e0a7015f22" />
 
 
 
