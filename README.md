@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://huggingface.co/spaces/somiya-khan01/protein-function-predictionn" target="_blank">
+<a href="https://huggingface.co/spaces/somiya-khan01/protein-function-prediction" target="_blank">
   <img src="https://img.shields.io/badge/🚀_LAUNCH_DEMO_-TRY_NOW-FF5722?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000&color=FF5722" alt="Launch Demo" width="350">
 </a>
 
